@@ -46,3 +46,18 @@ The entire solution is containerized using **Docker** for platform-agnostic depl
 cd frontend
 npm install
 npm start
+
+#### Backend
+```bash
+cd backend
+pip install -r requirements.txt
+python app.py
+
+### How to Run
+
+1. **Start the Backend**  
+   Navigate to the backend folder and run:
+   ```bash
+   python app.py
+
+
